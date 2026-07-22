@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "full_name": "John Doe",
+        "email": "johndoe@example.com",
+        "phone": "+91 9876543210",
+        "address": "Bengaluru, Karnataka, India",
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe"
+    },
+    "career_objective": "Motivated Computer Science student with strong problem-solving skills and a passion for software development, Artificial Intelligence, and cloud technologies. Seeking an entry-level software engineering role to contribute technical expertise while continuously learning and growing.",
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Computer Science",
+            "institution": "XYZ Institute of Technology",
+            "location": "Bengaluru",
+            "graduation_year": "2026",
+            "cgpa": "8.75"
+        }
+    ],
+    "technical_skills": {
+        "programming_languages": [
+            "Python",
+            "Java",
+            "C",
+            "C++"
+        ],
+        "web_technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "databases": [
+            "MySQL",
+            "MongoDB"
+        ],
+        "tools": [
+            "Git",
+            "GitHub",
+            "VS Code"
+        ]
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Development Intern",
+            "company": "ABC Technologies",
+            "duration": "Jan 2025 - Jun 2025",
+            "responsibilities": [
+                "Developed Python automation scripts.",
+                "Collaborated with the development team.",
+                "Fixed bugs and improved application performance."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "project_name": "SmartResume AI",
+            "description": "Developed an AI-powered resume builder using Python, Streamlit, and OpenAI API.",
+            "technologies": [
+                "Python",
+                "Streamlit",
+                "OpenAI API"
+            ]
+        }
+    ],
+    "certifications": [
+        "AI Prompt Engineering",
+        "Python Programming",
+        "SQL Fundamentals"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Kannada"
+    ],
+    "achievements": [
+        "Completed multiple AI-based academic projects.",
+        "Strong understanding of Prompt Engineering and Large Language Models."
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Software Development",
+        "Cloud Computing"
+    ]
+}
